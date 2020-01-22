@@ -1,0 +1,8 @@
+This my reflection on the on integration of Maven, Jenkinks, TestNG and Selenium.
+
+1. Maven is built-in to Eclipse.
+2. TestNG needs to be added as library in Eclipse.
+3. Selenium Webdriver jar files again needs to be added as external library
+4. All of the above can be managed with POM.xml file as dependencies.
+5. Jenkins server is used to scheduled the build jobs.
+6. Github is used as the repository and any changes in the repo can trigger a build.
