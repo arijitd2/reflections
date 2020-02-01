@@ -6,3 +6,4 @@ This my reflection on the on integration of Maven, Jenkinks, TestNG and Selenium
 4. All of the above can be managed with POM.xml file as dependencies.
 5. Jenkins server is used to scheduled the build jobs.
 6. Github is used as the repository and any changes in the repo can trigger a build.
+7. Git is local repository
